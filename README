@@ -1,0 +1,11 @@
+synvim		Synergy/DE context highlighting for vim
+
+Thanks to John Cottrell of BusinessCraft
+
+On Unix systems, place the contents of _vim in your ~/.vim directory.
+
+On Windows, place the contents of _vim in your %HOME%\vimfiles directory.
+
+Not sure about OS/X, but I've included John's __MACOSX directory.
+
+Issue tracker and Wiki at http://bitbucket.org/sterlingcamden/synvim
